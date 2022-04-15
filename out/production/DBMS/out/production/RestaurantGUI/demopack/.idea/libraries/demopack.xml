@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="demopack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/postgresql-42.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RestaurantGUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
